@@ -1,7 +1,10 @@
 # Proyecto-Modulo1-Bedu
 ##Tecnologias empleadas:
+
 HTML
+
 CSS
+
 JS
 
 ##Descripcion
