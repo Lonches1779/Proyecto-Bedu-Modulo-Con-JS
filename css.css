@@ -1,0 +1,197 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+
+}
+.sectionn{
+    display: block;
+    width: auto;
+   height: 2000px;
+   
+}
+article
+{
+    display: flex;
+    width: auto;
+    height: 700px;
+   
+
+}
+
+#art1{ background:  #008FC3;}
+#art2{ background:  gainsboro;}
+#art3{ background:  white;}
+#rr{ display: inline;
+    width: 500px;
+    height: 100px;
+    margin-left: 30px;}
+#ee{ 
+        display: flex;
+        width: 500px;
+        height: auto;
+        flex-direction: column;
+        background-color: aliceblue;
+        border-radius: 20px;
+        margin-left: 30px;}
+        
+#u
+{
+
+    display: inline;
+    margin-top: 300px;
+
+}
+ .plan
+ {
+    display: inline;
+    width: 500px;
+    height: 33px;
+   
+    
+
+ }       
+
+#subcaja1
+{
+
+    display: flex;
+    width: 700px;
+    height: 300px;
+    
+}
+#subcaja2
+{
+    display: inline;
+    width: 500px;
+    height: 100px;
+ 
+    
+}
+.form-control:hover
+{
+color: black;
+background-color: #ccc;
+
+}
+.plan:hover
+{
+    color: black;
+    background-color: #ccc;
+}
+
+.sw
+{
+    display: flex;
+    flex-direction: column;
+}
+
+div
+{
+
+    display: flex;
+    width: auto;
+    height: 500px;
+    justify-content: center;
+    align-items: center;
+    
+}
+img
+{
+    display: flex;
+    width: 400px;
+    height: 300px;
+    justify-items: center;
+    align-content: center;
+
+}
+a
+{   
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    color: black;
+    text-shadow: 0px 2px 5px #ccc;
+    text-decoration: none;
+}
+
+ul{list-style: none;}
+ .d-block
+{
+
+    width: 350px;
+    height: 250px;
+
+}
+a
+{
+    color: white;
+}
+.BarraSup
+{
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+
+    width: auto;
+    height: 75px;
+   
+    background-color:#008FC3 ;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    position: fixed;
+    left: 0;
+    top: 0;
+    right: 0;
+
+}
+.pie
+{
+
+    font-size: 15px;
+    color: white;
+
+}
+footer
+{
+    display: flex;
+    width: auto;
+    height: 150px;
+    background-color:#008FC3;
+    justify-content:space-around;
+    align-items: center;
+    flex-direction:row;
+}
+
+#logo
+{
+
+    width: 160px;
+    height: 80px;
+    
+
+}
+h1{
+    color: white;
+}
+#p1{
+    color: white;
+}
+.t{color:black;}
+#a{color: #008FC3;}
+
+
+
+.color
+{
+
+    width: 200px;
+    height: 40px;
+    background-color: #008FC3;
+    margin: 2px 2px;
+
+    
+}
+
+

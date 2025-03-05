@@ -1,0 +1,38 @@
+*
+{
+
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+}
+
+form
+{
+
+    display: flex;
+    width: 500px;
+    height: 500px;
+    margin-left: 400px;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    background-color: coral;
+   
+   
+
+}
+input
+{
+
+    display: flex;
+    font-size: 16px;
+    padding: 8px;
+
+
+}
+
+#barro
+{
+    margin-top: 100px;
+}
+

@@ -1,0 +1,32 @@
+
+*
+{
+
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+
+}
+form
+{
+    display: flex;
+    width: 500px;
+    height: 500px;
+    margin-left: 400px;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    background-color: coral;
+   
+   
+
+}
+a
+{
+    color: black;
+}
+#barro
+{
+
+    margin-top: 100px;
+}
