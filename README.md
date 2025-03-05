@@ -1,5 +1,5 @@
 # Proyecto-Modulo1-Bedu
-Tecnologias empleadas:
+##Tecnologias empleadas:
 HTML
 CSS
 JS
